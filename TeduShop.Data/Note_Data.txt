@@ -1,0 +1,3 @@
+﻿- Chứa tầng truy cập dữ liệu sử dụng Entity FrameWork Code First
+- Packages:
+	+ EntityFrameWork

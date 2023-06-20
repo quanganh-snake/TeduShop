@@ -1,0 +1,5 @@
+﻿- Chứa các lớp Domain Entities của dự án
+- Packages:
+ + EntityFrameWork
+ + Microsoft.AspNet.Identity.Core
+ + Microsoft.AspNet.Identity.EntityFrameWork

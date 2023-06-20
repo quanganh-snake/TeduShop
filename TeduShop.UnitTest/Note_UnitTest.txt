@@ -1,0 +1,5 @@
+﻿- Chứa các class Test để phục vụ việc Test
+
+- Packages: 
+	+ Moq: mock Object - test
+	+ EntityFrameWork

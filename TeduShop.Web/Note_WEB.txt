@@ -1,0 +1,4 @@
+﻿- Packages: 
+	+ Autofac
+	+ AutoMapper
+	+ EntityFrameWork
