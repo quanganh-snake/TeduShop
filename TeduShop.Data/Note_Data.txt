@@ -1,3 +1,6 @@
 ﻿- Chứa tầng truy cập dữ liệu sử dụng Entity FrameWork Code First
+- Pattern : 
+	+ SD Reponsitory : Lớp ảo nằm nữa DB và Business -> giúp tối ưu câu lệnh logic (có hỗ trợ viết sẵn CRUD)
+	+ Unit Of Work : Giúp đảm bảo nhiều thao tác cùng 1 giao dịch -> đảm bảo tính toàn vẹn
 - Packages:
 	+ EntityFrameWork
